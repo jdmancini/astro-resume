@@ -11,7 +11,7 @@ pdfLink: resume.pdf
 
 Charleston, South Carolina, USA | http://www.jdmancini.com
 
-Jeffrey Mancini is a skilled healthcare information security professional. As the Zone Facility Information Security Official, he safeguards patient data integrity across hospitals and freestanding emergency departments in South Carolina and Georgia. With a history of success, Jeffrey enforces robust security protocols, ensuring compliance with healthcare regulations. Proficient in risk assessment and incident response, he fortifies critical systems and adapts to emerging cybersecurity trends, fostering a secure environment.
+An accomplished Information Security Professional, Jeffrey Mancini is dedicated to safeguarding sensitive data and critical systems. With a proven history of driving security and privacy initiatives across diverse sectors, his experience spans healthcare, technology consulting, aviation, and more. Jeffrey maintains a consistent record of excellence in strategic leadership, innovation, and collaborative team management. Specializing in the development and implementation of robust security frameworks, he ensures regulatory compliance and fosters a culture of cybersecurity awareness. His expertise lies in seamlessly integrating technology to optimize operations, enhance security, and achieve organizational goals. Possessing a proactive problem-solving approach and visionary leadership, Jeffrey brings a comprehensive outlook to information security and technology management.
 
 ## Work Experience
 

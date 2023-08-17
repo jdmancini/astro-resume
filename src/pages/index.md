@@ -1,6 +1,6 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Jeffrey Mancini - Resume
+description: Resume about Jeffrey Mancini.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---

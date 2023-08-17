@@ -9,9 +9,9 @@ pdfLink: resume.pdf
 
 **Programmer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Charleston, South Carolina, USA | http://www.jdmancini.com
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+Jeffrey Mancini is a skilled healthcare information security professional. As the Zone Facility Information Security Official, he safeguards patient data integrity across hospitals and freestanding emergency departments in South Carolina and Georgia. With a history of success, Jeffrey enforces robust security protocols, ensuring compliance with healthcare regulations. Proficient in risk assessment and incident response, he fortifies critical systems and adapts to emerging cybersecurity trends, fostering a secure environment.
 
 ## Work Experience
 

@@ -15,39 +15,29 @@ Jeffrey Mancini is a skilled healthcare information security professional. As th
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [HCA Healthcare](https://www.hcahealthcare.com)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Zone Facility Information Security Official | Sep 2021 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+Experienced Information Security Professional dedicated to ensuring the confidentiality, integrity, and availability of sensitive data and critical systems within a zone encompassing hospitals and freestanding emergency departments across the South Carolina and Georgia markets at HCA. Proven expertise in developing and implementing robust security and privacy policies, conducting risk assessments, and leading incident response efforts to safeguard patient information, maintain regulatory compliance, and uphold ethical standards. Adept at collaborating with cross-functional teams, delivering comprehensive training, and ensuring physical security measures, resulting in a holistic approach that prioritizes privacy, ethics, and cybersecurity.
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### [Cantey Tech Consulting](https://canteytech.com)
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### Virtual Chief Information Officer | Aug 2020 - Aug 2021
 
-### [Pied Piper](http://piedpiper.com/)
+Accomplished Virtual Chief Information Officer (vCIO) at Cantey Tech Consulting with a proven track record of driving strategic technology initiatives and aligning IT solutions with business goals. Leveraging extensive experience in IT leadership, I provide visionary guidance to clients, offering expert insights into technology adoption, digital transformation, and cybersecurity enhancement. Adept at fostering client relationships, leading cross-functional teams, and optimizing IT infrastructure to deliver tangible results and sustainable growth.
 
-#### CEO/President | Dec 2013 - Dec 2014
+### [Manchester-Boston Regional Airport](https://www.flymanchester.com)
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### Director of Information Technology | Feb 2018 - Aug 2020
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+Experienced Director of Information Technology with a proven track record of providing exceptional administrative oversight and strategic leadership to Manchester-Boston Regional Airport's Information Technology Department. Adept at driving technological innovation, optimizing operational efficiency, and enhancing overall system performance. Skilled in leading cross-functional teams, implementing robust IT solutions, and ensuring seamless integration of technology to support the airport's mission. Recognized for successfully aligning IT initiatives with organizational goals, resulting in improved functionality, enhanced security, and elevated user experiences.
 
-## Projects
+### [Rhode Island Airport Corporation](https://flyri.com/riac)
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+#### Systems Administrator II | Nov 2014 - Feb 2018
 
-#### Occaecat qui Lorem adipisicing ut sunt aute. | Oct 2014
-
-Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. Cupidatat commodo cillum dolore nulla veniam enim in enim sint velit proident. Cupidatat laboris exercitation aliquip dolore eu elit. In mollit veniam eiusmod irure anim sit aute eu magna cillum. Sint aute irure laboris aute officia in velit in irure deserunt. Incididunt mollit mollit pariatur laborum laboris mollit ad enim ipsum deserunt. Ad tempor nulla occaecat consequat dolor nulla
-
-#### Video Compression for 3D Media
-
-#### Founder | Oct 2014
-
-Innovative middle-out compression algorithm that changes the way we store data.
+Experienced Systems Administrator with a proven track record of effectively managing and optimizing IT infrastructure at the Rhode Island Airport Corporation. Demonstrated expertise in server administration, network maintenance, and user support, ensuring seamless operations and cybersecurity. Skilled in troubleshooting, system upgrades, and documentation, contributing to the efficiency and reliability of technology systems. Committed to delivering exceptional user experiences and collaborating with cross-functional teams to achieve organizational objectives.
 
 ## Languages
 
@@ -57,6 +47,18 @@ Innovative middle-out compression algorithm that changes the way we store data.
 
 ## Education
 
-### University of Oklahoma
+### Florida State University
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Juris Master, Cybersecurity, Privacy, and Technology Risk Management | In Progress
+
+### UNC School of Government
+
+#### National Certified Government Chief Information Officer (CGCIO) | Jun 2021
+
+### Western Governors University
+
+#### Bachelor of Science, Information Technology | Nov 2021
+
+### Roger Williams University
+
+#### Associate of Science, Liberal Arts and Sciences | May 2015

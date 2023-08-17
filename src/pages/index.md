@@ -7,7 +7,7 @@ pdfLink: resume.pdf
 
 # Jeffrey Mancini
 
-**Programmer**
+**Cybersecurity & Information Technology**
 
 Charleston, South Carolina, USA | http://www.jdmancini.com
 

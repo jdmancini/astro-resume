@@ -27,19 +27,19 @@ Experienced Information Security Professional dedicated to ensuring the confiden
 
 #### Virtual Chief Information Officer | Aug 2020 - Aug 2021
 
-Accomplished Virtual Chief Information Officer (vCIO) at Cantey Tech Consulting with a proven track record of driving strategic technology initiatives and aligning IT solutions with business goals. Leveraging extensive experience in IT leadership, I provide visionary guidance to clients, offering expert insights into technology adoption, digital transformation, and cybersecurity enhancement. Adept at fostering client relationships, leading cross-functional teams, and optimizing IT infrastructure to deliver tangible results and sustainable growth.
+A highly accomplished Virtual Chief Information Officer (vCIO) at Cantey Tech Consulting, known for successfully leading strategic technology initiatives and aligning IT solutions with organizational objectives. With an extensive background in IT leadership, I offer visionary counsel to clients, delivering expert perspectives on technology adoption, digital transformation, and cybersecurity enhancements. Proficient in cultivating client relationships, leading cross-functional teams, and optimizing IT infrastructure to achieve concrete outcomes and sustainable expansion.
 
 ### [Manchester-Boston Regional Airport](https://www.flymanchester.com)
 
 #### Director of Information Technology | Feb 2018 - Aug 2020
 
-Experienced Director of Information Technology with a proven track record of providing exceptional administrative oversight and strategic leadership to Manchester-Boston Regional Airport's Information Technology Department. Adept at driving technological innovation, optimizing operational efficiency, and enhancing overall system performance. Skilled in leading cross-functional teams, implementing robust IT solutions, and ensuring seamless integration of technology to support the airport's mission. Recognized for successfully aligning IT initiatives with organizational goals, resulting in improved functionality, enhanced security, and elevated user experiences.
+A seasoned Director of Information Technology with a well-established history of delivering exceptional administrative supervision and strategic guidance to the Information Technology Department of Manchester-Boston Regional Airport. Proficient in spearheading technological advancements, streamlining operational effectiveness, and improving overall system performance. Experienced in leading cross-functional teams, implementing robust IT solutions, and ensuring the seamless integration of technology to uphold the airport's mission. Acknowledged for the successful alignment of IT endeavors with organizational objectives, leading to heightened functionality, enhanced security, and elevated user satisfaction.
 
 ### [Rhode Island Airport Corporation](https://flyri.com/riac)
 
 #### Systems Administrator II | Nov 2014 - Feb 2018
 
-Experienced Systems Administrator with a proven track record of effectively managing and optimizing IT infrastructure at the Rhode Island Airport Corporation. Demonstrated expertise in server administration, network maintenance, and user support, ensuring seamless operations and cybersecurity. Skilled in troubleshooting, system upgrades, and documentation, contributing to the efficiency and reliability of technology systems. Committed to delivering exceptional user experiences and collaborating with cross-functional teams to achieve organizational objectives.
+An accomplished Systems Administrator with a documented history of efficiently overseeing and enhancing IT infrastructure within the Rhode Island Airport Corporation. Demonstrating proficiency in server administration, network maintenance, and user assistance to ensure uninterrupted operations and cybersecurity. Expertise includes troubleshooting, system upgrades, and meticulous documentation, all of which contribute to the efficiency and dependability of technology systems. Committed to providing outstanding user experiences and collaborating seamlessly with cross-functional teams to meet organizational goals.
 
 ## Languages
 

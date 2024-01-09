@@ -11,7 +11,7 @@ pdfLink: resume.pdf
 
 Charleston, South Carolina, USA | http://www.jdmancini.com
 
-Jeffrey Mancini is an accomplished professional with over a decade of experience in information security and technology management. Serving as a Facility Information Security Official at HCA Healthcare, he is proficient in policy management, risk assessment, and incident response. Committed to continuous growth, Jeffrey is pursuing a Juris Master with a concentration in Cybersecurity, Privacy, and Technology Risk Management, and he holds several certifications, including ITIL 4 and Microsoft 365 Security Administrator Associate.
+Jeffrey Mancini is an experienced professional in information security and technology management, currently serving as a Zone Facility Information Security Official at HCA Healthcare. With a career spanning over a decade, he has held significant roles in different sectors including healthcare, technology consulting, and aviation. Mancini is pursuing a Juris Master in Cybersecurity, Privacy, and Technology Risk Management, and holds certifications such as ITIL 4 and Microsoft 365 Security Administrator Associate.
 
 ## Work Experience
 

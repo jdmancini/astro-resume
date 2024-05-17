@@ -17,7 +17,7 @@ Jeffrey Mancini is an experienced professional in information security and techn
 
 ### [HCA Healthcare](https://www.hcahealthcare.com)
 
-#### Zone Facility Information Security Official | Sep 2021 - Current
+#### Business Protection Advisor | Sep 2021 - Current
 
 Experienced Information Security Professional dedicated to ensuring the confidentiality, integrity, and availability of sensitive data and critical systems within a zone encompassing hospitals and freestanding emergency departments across the South Carolina and Georgia markets at HCA. Proven expertise in developing and implementing robust security and privacy policies, conducting risk assessments, and leading incident response efforts to safeguard patient information, maintain regulatory compliance, and uphold ethical standards. Adept at collaborating with cross-functional teams, delivering comprehensive training, and ensuring physical security measures, resulting in a holistic approach that prioritizes privacy, ethics, and cybersecurity.
 

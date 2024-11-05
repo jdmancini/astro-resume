@@ -39,12 +39,6 @@ A seasoned Director of Information Technology with a well-established history of
 
 An accomplished Systems Administrator with a documented history of efficiently overseeing and enhancing IT infrastructure within the Rhode Island Airport Corporation. Demonstrating proficiency in server administration, network maintenance, and user assistance to ensure uninterrupted operations and cybersecurity. Expertise includes troubleshooting, system upgrades, and meticulous documentation, all of which contribute to the efficiency and dependability of technology systems. Committed to providing outstanding user experiences and collaborating seamlessly with cross-functional teams to meet organizational goals.
 
-## Languages
-
-| English        |
-| -------------- |
-| Native speaker |
-
 ## Education
 
 ### Florida State University

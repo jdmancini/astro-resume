@@ -11,7 +11,7 @@ pdfLink: resume.pdf
 
 Charleston, South Carolina, USA | http://www.jdmancini.com
 
-Jeffrey Mancini is an experienced professional in information security and technology management, currently serving as a Business Protection Advisor at HCA Healthcare. With a career spanning over a decade, he has held significant roles in different sectors including healthcare, technology consulting, and aviation. Jeffrey holds a Juris Master in Cybersecurity, Privacy, and Technology Risk Management and holds certifications such as ITIL 4 and Microsoft 365 Security Administrator Associate.
+Jeffrey Mancini is a seasoned professional in information security and technology management, currently working as a Business Protection Advisor at HCA Healthcare. With over a decade of experience across healthcare, technology consulting, and aviation sectors, he has developed a strong foundation in safeguarding business operations and managing technology risks. Jeffrey holds a Juris Master in Cybersecurity, Privacy, and Technology Risk Management and is certified in ITIL 4 and as a Microsoft 365 Security Administrator Associate.
 
 ## Work Experience
 
